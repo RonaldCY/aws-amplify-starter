@@ -45,7 +45,7 @@ npm start
 ### Get Familiar Amplify
 [Tutorial](https://docs.amplify.aws/lib/q/platform/js)
 
-### Endpoints
+### Demo
 [GraphQL](https://2lwcfstkxzasllnblyxp53oi6e.appsync-api.us-east-1.amazonaws.com/graphql)
 
 [Web Host](https://dev.dbsy1aermrtyu.amplifyapp.com )
