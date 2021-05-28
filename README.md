@@ -20,7 +20,7 @@ Install and configure the Amplify CLI
 ```
 User name: amplify-zWkiB
 
-Access Key ID: AKIAX73HXXHXBOIUQI5Y
+Access Key ID: AK***UQI5Y
 
 Secret access key: {Please ask administrator}
 ```
