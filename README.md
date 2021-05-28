@@ -24,7 +24,16 @@ Access Key ID: AK***UQI5Y
 
 Secret access key: {Please ask administrator}
 ```
-## Get resources from AWS
+## Initialize AWS
+
+```
+amplify init
+```
+### Pull resources from aws
+
+```
+amplify pull
+```
 ### You may check what resources we have
 
 ```
@@ -35,12 +44,7 @@ amplify status
 | Auth     | amplifynotetaker7b9f1726 |
 | Api      | amplifynotetaker         |
 | Hosting  | amplifyhosting           |
-### Pull resources from aws
-
-```
-amplify pull
-```
-## Run Locally
+## Run application locally
 
 ```
 npm start
