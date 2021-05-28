@@ -24,18 +24,22 @@ Access Key ID: AK***UQI5Y
 
 Secret access key: {Please ask administrator}
 ```
-## Check AWS status
+## Get resources from AWS
+### You may check what resources we have
 
 ```
 amplify status
 ```
-*Cloud resources used*
 | Category | Resource name            |
 | -------- | ------------------------ |
 | Auth     | amplifynotetaker7b9f1726 |
 | Api      | amplifynotetaker         |
 | Hosting  | amplifyhosting           |
+### Pull resources from aws
 
+```
+amplify pull
+```
 ## Run Locally
 
 ```
